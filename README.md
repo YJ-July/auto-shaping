@@ -26,3 +26,7 @@ All results start with `fig_` were saved in the same .RData file, `figdata.RData
 ```{r}
 save(list = ls(pattern = "fig_"), file = "figdata.RData")
 ```
+## Github Page
+
+You can also find the github page with the following link:
+https://yj-july.github.io/auto-shaping/
